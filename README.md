@@ -21,12 +21,17 @@
     <li>Elisabeth Morais @bethmorais</li>
   </ul>
   
-  <h2>Fontes de dados utilizadas</h2>
+  <h2>Exercício 2</h2>
+    <ul><li>Faça upload do arquivo PhishingData.arff no Colab antes de executar o código do exercício 2</ul>
   
-  <p>
-  Base <a href="https://github.com/bethmorais/aed-md-mp/blob/master/imdb_1000.csv" target="_blank">imdb</a>
-  </p>
-  <p>
+  
+  <h2>Fontes de dados utilizadas</h2>  
+  <ul>
+  <li>Base do Exercício 2 da avaliação <a href="https://archive.ics.uci.edu/ml/datasets/Website+Phishing#" target="_blank">Phishing</a>
+  </ul>
+  <ul>
+  <li> Base do exercício realizado em sala <a href="https://github.com/bethmorais/aed-md-mp/blob/master/imdb_1000.csv" target="_blank">imdb</a>
+  </ul>
   
 </body>
 </html>
